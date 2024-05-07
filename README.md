@@ -6,6 +6,6 @@ The Football Ontology is a comprehensive knowledge representation framework desi
 The intended use of the football ontology is to provide a wide range of applications aimed at data management, analysis, and decision making in the football domain.The ontology serves as a knowledge representation framework, supporting the integration of diverse football-related data sources and enabling researchers, analysts, and other stakeholders valuable insights. The goal is to develop a standardized football ontology, which could be used for decision-making processes by providing knowledge about player performance, team strategies, and match outcomes.
 
 
-A full diagram with properties and data types was also built using WebVOWL
+The images below represents the full Ontology with classes, properties, and relationships built in [WebVOWL](https://service.tib.eu/webvowl/)
 
 ![Full Ontology](img/footology_v2.4.png)
