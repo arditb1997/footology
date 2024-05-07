@@ -7,4 +7,5 @@ The intended use of the football ontology is to provide a wide range of applicat
 
 
 A full diagram with properties and data types was also built using WebVOWL
+
 ![Full Ontology](img/footology_v2.4.png)
