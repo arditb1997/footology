@@ -12,4 +12,4 @@ The images below represents the full Ontology with classes, properties, and rela
 
 The picture below shows a diagram of the ontology containing the classes of the Ontology.
 
-![Diagram](img/footology_v1.png)
+![Diagram](img/footology_v2.1.drawio.png)
