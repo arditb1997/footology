@@ -8,7 +8,7 @@ The intended use of the football ontology is to provide a wide range of applicat
 
 The images below represents the full Ontology with classes, properties, and relationships built in [WebVOWL](https://service.tib.eu/webvowl/).
 
-![Full Ontology](img/footology_v2.4.png)
+![Full Ontology](img/footology_2.1.png)
 
 The picture below shows a diagram of the ontology containing the classes of the Ontology.
 
